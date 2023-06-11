@@ -29,8 +29,7 @@ project "msdfgen"
 
 	defines
 	{
-		"MSDFGEN_USE_CPP11",
-		"MSDFGEN_USE_LODEPNG"
+		"MSDFGEN_USE_CPP11"
 	}
 
 	links
